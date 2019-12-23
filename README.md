@@ -1,2 +1,2 @@
 # president-election-prediction
-prediction of Indonesian president election base in sentiment on twitter
+prediction of Indonesian president election base on sentiment on twitter. I'm not upload the data so you can't run it (this repo for backup only).
